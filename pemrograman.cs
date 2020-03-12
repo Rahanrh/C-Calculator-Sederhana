@@ -22,7 +22,7 @@ namespace CalculatorConsoleApp1
             
             Console.WriteLine();
 			
-            Console.WriteLine("1. Pemanbahan");
+            Console.WriteLine("1. Penjumlahan");
             Console.WriteLine("2. Pengurangan");
             Console.WriteLine("3. Perkalian");
             Console.WriteLine("4. Pembagian");
